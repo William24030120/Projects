@@ -1,0 +1,10 @@
+KOCYJAN BERT,NORMAL,W/ ADVERBIAL PHRASES,W/ NEGATION,W/ NAMES,W/ ADJECTIVES,W/ RELATIVE CLAUSE,PAST TENSE,FUTURE TENSE,PRESENT TENSE,ROW AVERAGES
+Fitting Schemas,54%,51%,45%,47%,48%,47%,49%,48%,54%,49%
+Pouring Schemas,54%,58%,54%,47%,46%,49%,54%,51%,48%,51%
+Near/far Schemas,49%,42%,49%,43%,53%,48%,53%,51%,49%,49%
+Column Averages,52%,50%,49%,46%,49%,48%,52%,50%,50%,
+,,,,,,,,,,
+GPT 2,NORMAL,W/ ADVERBIAL PHRASES,,,,,,,,
+Fitting Schemas,,,,,,,,,,
+Pouring Schemas,,,,,,,,,,
+Near/far Schemas,49%,,,,,,,,,
